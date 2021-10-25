@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning DB & Distributed system
 
-💬 Wechat: c648038087
+<!-- 💬 Wechat: c648038087 -->
 
 <!-- ![Cerdore's github stats](https://github-readme-stats.vercel.app/api?username=Cerdore&show_icons=true&theme=radical) -->
