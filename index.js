@@ -19,9 +19,12 @@ const readme = `\
 ---
 ⏰ Updated on ${new Date().toUTCString()}
 ![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)\
-`
-<img src="https://github-readme-stats.vercel.app/api?username=Cerdore&show_icons=true">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Cerdore&show_icons=true">
 
 🌱 I’m currently learning DB & Distributed system
+`
+
+
 
 console.log(readme)
