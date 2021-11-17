@@ -15,14 +15,17 @@ function generateProgressBar() {
 
 const readme = `\
 ### Hi there 👋
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Cerdore&show_icons=true">
+
+🌱 I’m currently learning DB & Distributed system
+
+
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 ---
 ⏰ Updated on ${new Date().toUTCString()}
 ![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)\
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Cerdore&show_icons=true">
-
-🌱 I’m currently learning DB & Distributed system
 `
 
 
