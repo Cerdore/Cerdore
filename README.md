@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning DB & Distributed systems!
+🌱 I’m currently learning PostgreSQL and openGauss.
 
 💬 Wechat: c648038087
 
