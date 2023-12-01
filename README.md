@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 💬 Wechat: c648038087
 -->
 
-🌱 I’m currently learning DB (PostgreSQL and Greenplum) !
+🌱 I’m currently learning DB (PostgreSQL and openGauss) & Distributed systems (e.g. spark and flink)!
 
+💬 Wechat: c648038087
 
 [![Cerdore's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cerdore&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Cerdore&show_icons=true&count_private=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 
 ⏳ Year progress { ███████████████████████████▁▁▁ } 91.6 %
 ---
-⏰ Updated on Fri, 01 Dec 2023 06:09:14 GMT
+⏰ Updated on Fri, 01 Dec 2023 12:11:41 GMT
 ![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
 
