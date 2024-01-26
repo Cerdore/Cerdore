@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning DB (PostgreSQL and openGauss) & Distributed systems (e.g. spark and flink)!
+🌱 I’m currently learning DB (PostgreSQL and Greenplum) and LakeHouse!
 
 💬 Wechat: c648038087
 
