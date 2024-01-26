@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning DB (PostgreSQL and Greenplum) and LakeHouse!
+🌱 I’m currently learning DB (PostgreSQL and openGauss) & Distributed systems (e.g. spark and flink)!
 
 💬 Wechat: c648038087
 
@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Cerdore&show_icons=true"> -->
 
 
-⏳ Year progress { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 6.8 %
+⏳ Year progress { ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 6.9 %
 ---
-⏰ Updated on Fri, 26 Jan 2024 00:30:28 GMT
+⏰ Updated on Fri, 26 Jan 2024 06:08:17 GMT
 ![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
 
