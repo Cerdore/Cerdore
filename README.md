@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Cerdore&show_icons=true"> -->
 
 
-⏳ Year progress { ██████████████████████▁▁▁▁▁▁▁▁ } 76.1 %
+⏳ Year progress { ██████████████████████▁▁▁▁▁▁▁▁ } 76.2 %
 ---
-⏰ Updated on Sun, 05 Oct 2025 18:11:37 GMT
+⏰ Updated on Mon, 06 Oct 2025 00:45:45 GMT
 ![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
 
