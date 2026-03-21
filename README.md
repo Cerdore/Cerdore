@@ -19,13 +19,15 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning DB (PostgreSQL and openGauss) & Distributed systems (e.g. spark and flink)!
 
+💬 Wechat: c648038087
+
 [![Cerdore's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Cerdore&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=Cerdore&show_icons=true&count_private=true&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Cerdore&show_icons=true"> -->
 
 
-⏳ Year progress { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 21.7 %
+⏳ Year progress { ██████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 21.8 %
 ---
-⏰ Updated on Sat, 21 Mar 2026 06:28:50 GMT
+⏰ Updated on Sat, 21 Mar 2026 12:23:40 GMT
 ![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
 
