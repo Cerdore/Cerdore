@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 
 
-⏳ Year progress { █████████████████████▁▁▁▁▁▁▁▁▁ } 73.3 %
+⏳ Year progress { ██████████████████████▁▁▁▁▁▁▁▁ } 73.3 %
 ---
-⏰ Updated on Fri, 25 Sep 2026 10:44:10 GMT
+⏰ Updated on Fri, 25 Sep 2026 16:03:22 GMT
 ![Progress Bar CI](https://github.com/liununu/liununu/workflows/Progress%20Bar%20CI/badge.svg)
 
